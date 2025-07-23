@@ -1,6 +1,5 @@
 certifi==2025.7.14
 charset-normalizer==3.4.2
-evdev==1.9.2
 filelock==3.18.0
 fsspec==2025.7.0
 hf-xet==1.1.5
