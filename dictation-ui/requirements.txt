@@ -1,5 +1,5 @@
 # Core dependencies for dictation-ui
-mlx-whisper==0.0.10
+mlx-whisper==0.4.2
 sounddevice==0.4.6
 PySimpleGUI==4.60.5
 keyboard==0.13.5
