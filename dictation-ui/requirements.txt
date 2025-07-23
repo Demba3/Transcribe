@@ -30,3 +30,4 @@ toml==0.10.2
 tqdm==4.67.1
 typing_extensions==4.14.1
 urllib3==2.5.0
+pynput
